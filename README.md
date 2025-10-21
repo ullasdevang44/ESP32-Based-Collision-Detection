@@ -99,16 +99,16 @@ The system is suitable for **safety monitoring**, **IoT vehicle projects**, and 
 
 | Category | Component | Quantity | Unit Price (₹) | Total Price (₹) |
 |----------|-----------|---------|----------------|----------------|
-| Controller | ESP32 | 1 | 600 | 600 |
+| Controller | ESP32 | 1 | 300 | 300 |
 | Sensor | Collision Sensor | 1 | 150 | 150 |
 | Motor Driver | L298N | 1 | 250 | 250 |
 | Actuators | DC Motors | 2 | 200 | 400 |
 | Indicators | LEDs | 2 | 10 | 20 |
 | Indicators | Buzzer | 1 | 30 | 30 |
 | Connectivity | Jumper Wires | 1 set | 100 | 100 |
-| Power | Li-ion Battery | 1 | 500 | 500 |
+| Power | Li-ion Battery | 1 | 100 | 100 |
 | Software | Arduino IDE / Libraries | - | Free | - |
-| **Total** |  |  |  | **2050** |
+| **Total** |  |  |  | **1350** |
 
 ---
 
